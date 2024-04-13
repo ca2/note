@@ -1,0 +1,461 @@
+<3JegElskerDigThomasBS_!! [ OpenBSD : day 2 ] [ 7.5 ] C++ Attempting to port ca2 to new OpenBSD 7.5!! Will it work at OpenBSD 7.5, it didnt out of box for 7.
+But it seems 7.5 Clang/LLVM compilter 17 is quite good and is compiling application_build_helper so far!!
+And OpenBSD 7.5 with GNOME 45 FullHD at Virtual Box 7.0!! It is working!!
+
+
+🌌🌍 <3ThomasBS_JegElskerDig!! 🌌🌍 [ FreeBSD with KDE Plasma : day 5 ] […
+… 14.0 ] [ C++ ] Porting ca2 to FreeBSD 14.0 with KDE Plasma!!
+
+🌌🌍 <3ThomasBS_JegElskerDig!
+
+<3tbs, Mummi and bilbo!!
+
+Thomas Borregaard Sørensen \infinity,-0.16091989,\infinity ONE-MAN ABSOLUTE <3!! I love you, by ???-0.02041977-???write my history please make me please create me for you for me for you for me Camilo Sasuke Thomas Borregaard Sørensen!!
+
+Thomas 3 private commits on mid Dec2020!!
+
+Thomas Online YouTube VODs contribution!!
+
+Mummi 2021-11-19 01:01 (AM) Second Super Tuna Sandwich in Baguete with Lots Tomato, second Coke and cake no gluten with tea...
+
+Mummi right after arm surgery March12!!
+
+Mummi bearing me... :(!!
+
+Mummi prepared pro-like Hot Dog (2023-07-18 18:54)!!
+
+Mummi (tinytaura) watching and chatting contribution!!
+
+Mummi and a lot of ice cream, end of 2021 start of 2022!!
+
+Mummi (tinytaura) at cloud.camilothomas.com machine and at ca2software@twitch channel contribution!!
+
+bilbo sleeping and needing/requesting/crying for help care (for the right person (me), the cats wanna fight with him) contribution!!
+
+sodapoppin and friends contribution!!
+
+iAssyrian chatting contribution!!
+
+memoriesdota chatting, C++ interest, asking for help C++ begginner's exercizes and ca2 project based on simple solution interest contribution!!
+
+Marcelo_DevSREs streaming (Azure,Microsoft) contribution!!
+
+alstroemeria5 talk about teaching coding contribution!!
+
+spoofhx (boflux, Spoofh, Benjamin Kuhl) chatting contribution!!
+
+Tectuma (Goth, Tec, Chronos and Promazeus) support, chatting and friendship contribution!!
+
+therealchriff chatting contribution!!
+
+Nogunumo chatting and streaming C++ Machine Learning and Fortnite contribution!!
+
+Spoofhx, Gothiccat1 and therealchriff chatting contribution!! 2021-07-19 23:00 BRT
+
+jusg_fpga (fpga_guru, vue_equalizer, just_fpga, Oliver Pohl) chatting contribution!!
+
+TheVibeCurator (Zach.@discord) chatting contribution!!
+
+cmgriffing streaming contribution!!
+
+smokesess chatting contribution!!
+
+Wapaca (Twitch from France) support contribution!!
+
+ZakariaLpd98 (ZakariaBouskif, ZakariaWaseem) chatting contribution!!
+
+Pocketwatch (Joseph Riedel 'nd Andy Schatz) streaming contribution!!
+
+wtfblub helped with the twitch scope thing in resident bot (add chat:read and chat:edit) chatting contribution!!
+
+wtfblub helping ca2 chat contributino!!
+
+lowluds happy with resident bot reactivation contribution!!
+
+shegotmad learning to interact asking for dark mode slowly contribution!!
+
+shegotmad insist ca2 to create file_rename tool resembling bulk rename utility tool!!
+
+SoWeq streaming contribution!!
+
+Hunterpug chatting contribution!!
+
+TimBeaudet (Friends: FletcherLabs, tsjost and Jabokoe) streaming contribution!!
+
+Stumpen_nicklas_dk, sodapoppin and EduardoRFS streaming contribution!!
+
+TheCherno streaming contribution!!
+
+Roxkstar74 (RoxCodes) sleeping streaming contribution!!
+
+Promic2 streaming & Retro & Chat games contribution!!
+
+//nanogui
+//Mummi at office during dawn
+//youngmatti_
+//VerFX
+//strager
+//j_blow
+//rw_grim
+//nanogui freelancing client
+//TheCherno
+
+//2022-07-23 18:00 <3ThomasLikesNumber5!! with Mummi, bilbo and blueiy
+//lowluds, Klay4 and thurmanprogramming at chat
+https://www.twitch.tv/thomasbs_
+https://www.twitch.tv/officialandypyro
+https://www.twitch.tv/sodapoppin
+https://www.twitch.tv/rothwellden?referrer=raid
+https://www.twitch.tv/partlyatomic?referrer=raid
+https://www.twitch.tv/tehbeardedgamer
+https://www.twitch.tv/jaxstyle
+https://www.twitch.tv/cmgriffing
+https://www.twitch.tv/soweq
+https://www.twitch.tv/myrkee
+https://www.twitch.tv/nugrunonly
+https://www.twitch.tv/rwxrob
+https://www.twitch.tv/guardsmanbob?referrer=raid
+https://www.twitch.tv/drastrup
+https://www.twitch.tv/irishjohngames
+https://www.twitch.tv/djnikolaijensen
+https://www.twitch.tv/anthonywritescode
+https://www.twitch.tv/jpcdk
+https://www.twitch.tv/directory/following
+https://www.twitch.tv/directory/game/BASIC%20Programming
+https://www.twitch.tv/directory/game/Science%20%26%20Technology
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development
+
+kissloryshy chatting contribution!!
+
+midnight_simon streaming learning C++ (in LeetCode) contribution!!
+
+MrShoor (from Russia) streaming C++ development contribution!!
+
+PaperArmys chatting contribution and interest-on-topic:Local_home_web_server contribution!!
+
+blackjekko from Padova Italia through twitch C++/ca2 interest contribution!!
+
+blackmanbo1234 chatting and interest contribution!!
+
+lowluds chatting, chilling, paying attention, active support and channel interest contribution!!
+
+Gabiul (7Electron, shiroespark with Spring/Java) chatting contribution!!
+
+steffen25 (@Twitch after long time and thought about him yesterday and he's on chat today 2022-10-21) chatting contribution!!
+
+FrankL81 talking about ca2 and C++ frameworks and possible virtualization of ca2 on platforms contribution!!
+
+t104mo contribution!!
+
+octaelliptical chatting and C++ coding contribution!!
+
+shegotmad (@Twitch from London UK) learning C++, ca2 and chatting contribution!!
+
+morrison_nm (@Twitch) chatting contribution!!
+
+leoniietv (mrsteinbergplease from Deutschland/Canada/Österreich/Luxembourg/CommunitaeHelvetica{CH}...notChina) chatting contribution!!
+
+thegreatkali42 (canada, FreeBSD and lastmiles friend) chatting contribution!!
+
+neverending_suffering chatting, paying attention, chilling and following ca2 development contribution!!
+
+OALabs raid of up to 50 raiders on 2022-02-10 around 9PM BRT!!
+
+  - x64dbg raider from above OALabs raid: Get command line parameters from Process Explorer64.exe and Search Box in Main Window Top Right contribution!!
+
+  - steady viewership for relatively long time.
+
+parrot_rl chatting contribution (from New Jersey)!!
+
+rockzombie2 streaming contribution (Cyberpunk77)!!
+
+JPCdk streaming contribution!!
+
+NugRunOnly streaming programming contribution!!
+
+gamozo streaming programming contribution!!
+
+Gram (Dansk streamer) streaming contribution!!
+
+Mis_DK (Dansk streamer) streaming contribution!!
+
+jstandfast ("life") streaming contribution!!
+
+GriffingAndChill (cmgriffing when coding) streaming gaming contribution!!
+
+EmptyGroceryBag streaming contribution!!
+
+fast_goal chatting and programming interest contribution!!
+
+armtek9 chatting, channel and ca2 interest contribution!!
+
+ravi387, 0xkira07 and Daytuz chatting contribution!!
+
+cakez77 (and Cynokron) streaming C-C++ contribution!!
+
+kokrb, mixturka613 and nelvtiru chatting contribution!!
+
+FractalMindMike Retro streaming contribution!!
+
+al_bundy111 (from Canada) chatting and C++ frameworks interest contribution!!
+
+BrianFromDenmark subathon streaming contribution!!
+
+Sluggero streaming contribution!!
+
+Beuca streaming SpeedRun contribution!!
+
+earend from twitch  from Canada streaming contribution!!
+
+evanmmo (@Twitch) streaming contribution!!
+
+RHK3D (Dansk truck Twitch streamer) streaming contribution!!
+
+andymilonakis from twitch Just Chatting streaming contribution!!
+
+therealshookon3 (from twitch / from Australia) streaming contribution!!
+
+kampfmaschine_ chatting contribution!!
+
+TehBeardedGamer streaming contribution!!
+
+whyyyyyyysoserious (Marc Esserman) streaming chess contribution!!
+
+fpga_guru (vue_equalizer, Oliver from Deutsch) C++/ca2 interest contribution!!
+
+megadamage streaming contribution!!
+
+TimBeaudet C++ development and streaming contribution!!
+
+camandcode streaming, chatting and production contribution!!
+
+sanskee3 (Cassio@Guarulhos) C++ studying for ca2 development and chatting, testing, reporting and interacting contribution!!
+
+belago68 (@spain) chatting contributin!!
+
+pqpvoltei ("Guilherme") chatting contribution!!
+
+SovereignDev with Unreal streaming contribution!!
+
+QuantumApprentice streaming C++ contribution!!
+
+TicTicBoooom (British allegged ADHD) streaming C/GameEngine/Vulkan contribution!!
+
+MrEliptik (Twitch) streaming contribution!!
+
+PracticalNPC, dandymcgee streaming contribution!!
+
+Fuzkeren (TwitchDansk) streaming contribution!!
+
+Reydempto streaming contribution!!
+
+Ash_F0x streaming contribution!!
+
+Myrkee (Valheim) streaming contribution!!
+
+xmetrix and EinfachUwe42 streaming contribution!!
+
+JessicaMak and marcobrunodev streaming contribution!!
+
+alfredotigolo, mandrakenk and Okbatgames chatting contribution!!
+
+jitspoe and Endesga streaming contribution!!
+
+Fearitself (& team mates) streaming contribution!!
+
+scanlime (FreeBSD, UNIX, Linux & old_machines) streaming contribution!!
+
+BoppyGames dedicated long streaming contribution!!
+
+EZ_username chatting contribution!! (Screen Reader at Linux : AT-SPI2, at Windows MSAA/IA2)
+
+CrashLima (BR) chatting contribution!!
+
+MonsieurBee streaming contribution!!
+
+jmcmorris (Jason Morris, SiegeGames) streaming contribution!!
+
+tomrandall (randy) streaming coding contribution!!
+
+anas084 (from Saudi Arabia) chatting contribution!!
+
+strager streaming C++ development contribution!!
+
+DonHo streaming contribution!!
+
+vue_equalizer (fpga_guru) chatting contribution!!
+
+Thiagovgamg chatting contribution!!
+
+Naysayer88 and friends contribution!!
+
+lelandkwong streaming contribution!!
+
+Goldbargames streaming contribution!!
+
+Bytakos (bytakos) streaming contribution!!
+
+philliptrudeau streaming, raiding & raiders contribution!!
+
+proton_fig (from Finland) streaming C64 games, tools, music, programming... contribution!!
+
+j_blow streaming contribution!!
+
+boflux (spoofhx, Ben, Spoofh, from Germany) chatting contribution!!
+
+ryanfleury (and nickito97) streaming C programming contribution!!
+
+Endesga streaming contribution!!
+
+jitspoe streaming contribution!!
+
+Ash_F0x and JessicaMak streaming contribution!!
+
+WTSRetro/SpiffyDane and Myrkee streaming contribution!!
+
+Ninja and friends streaming contribution!!
+
+erald_guri chatting contribution!!
+
+lastmiles streaming farwest contribution!!
+
+CronicSick (& family) streaming contribution!!
+
+rw_grim streaming contribution!!
+
+rwxrob broadcast contribution!!
+
+RiikenTenkashie streaming contribution!!
+
+MarckozHD streaming contribution (in 480p though)!!
+
+AdamCYounis streaming contribution!!
+
+unicorndev (and Friends: metrix and Zultralord) streaming and chatting contribution!!
+
+Dunno (P4ndaExpress) chatting and streaming contribution!!
+
+Zorchenhimer streaming contribution!!
+
+lasteveq4 C++ interest chat contriubtion!!
+
+cecilphillip and clarkio @"Microsoft Developer" streaming contribution!!
+
+oijtx streaming contribution!!
+
+diego_brandoh (Bogdanoff_Chad, diegobrando_linux, Bl4ck_gookoo) chatting (and C++/ca2 interest) contribution!!
+
+intelijens chatting contribution (after long time!!)!!
+
+erald_guri123 chatting contribution (C GUI from scratch at Windows contribution)!!
+
+jhovgaard streaming contribution!!
+
+Klay4_ chatting contribution!!
+
+LinusTech (& luke_afra) streaming contribution!!
+
+HonestDanGames streaming contribution!!
+
+NorthSeaHero streaming contribution!!
+
+Trainwreckstv and friends streaming contribution!!
+
+ai_developer (is he fpga_guru?) chatting contribution!!
+
+PirateSoftware/FerretSoftware (GoPirateSoftware) streaming contribution!!
+
+OfficialAndyPyro (@Twitch from Suomi) streaming contribution!!
+
+taiyoinoue, RetroMMO and david_joffe streaming contribution!!
+
+Knut streaming contribution!!
+
+Tjienta streaming contribution!!
+
+ThePrimeagen streaming contribution!!
+
+PrismaticaDev game development streaming contribution!!
+
+mike_the_swedish_coder (from Sweden) chatting contribution!!
+
+ghostfasm (epryka, liefasm, Vladimir - Vova from Russia) streaming contribuion!!
+
+Jaxstyle and friends streaming contribution!!
+
+BaldEngineer (Apple II dev?, when mac book M1 pro by bald engineer) streaming contribution!!
+
+IrishJohnGames streaming contribution!!
+
+warka101 streaming Unreal Engine Game Development contribution!!
+
+RubenGKS Norwegian streaming contribution!!
+
+handmadehero streaming contribution!!
+
+EduardRFS streaming contribution!!
+
+togglebit, GexYT streaming contribution!!
+
+phanxgames (Henri Price) streaming contribution!!
+
+qpHalcy0n (and Friends: DragonSlayer0531) streaming and Linux and C++ development contribution!!
+
+TheCoppinger coding streaming contribution!!
+
+Melchizedek6809 streaming, raid and chatting contribution!!
+
+btcfly streaming contribution!!
+
+Llama0x0 and sov_l chatting contribution!!
+
+LLamabit chatting contribution!!
+
+heroseh gamedev (and C/C++ text editor) streaming contribution!!
+
+TaleLearnCode streaming contribution!!
+
+hvalen_hvalborg112 streaming contribution!!
+
+Kebabskal streaming contribution!!
+
+J0KERZZ IRL truck streaming contribution!!
+
+cilangcilang (@Twitch, from GuangZHOU) chatting contribution!!
+
+zeeth (&friends) streaming contribution!!
+
+tyuuutv chatting contribution (non programmer talking programming related stuff casually)!!
+
+klintcsgo (CS GO: Counter-Strike Global Offensive) streaming contribution!!
+
+løtchoh friendship contribution!!
+
+VerFX streaming contribution!!
+
+KASPERPURE (Super Mario 64) streaming contribution!!
+
+SomewhatAccurate C++ streaming contribution!!
+
+Crinkem (from Australia) chatting, friendship and support contribution!!
+
+chr1sjw (C++, CCTV) streaming contribution!!
+
+jaxZzzzzzzzz chatting contribution!!
+
+TurtleWolfe chatting, hosting and raid contribution!!
+
+ultristors chatting contribution!!
+
+Holmti (hvalen_hvalborg112 friend) streaming contribution!!
+
+Moulberry2 streaming contribution!!
+
+Listening to Bryan Adams, Westlife, Shayne Ward, MLTR, Backstreet Boys, Boyzone - Best Love Songs Ever by Relax Song at YouTube!!
+
+-- hi5 contribution...!!
+
+at OpenBSD 7.5 with GNOME 45 at VBox at Windows 10 Pro at eddie machine remotely from bilbo machine running Windows 10 Pro!! (streaming at https://Twitch.TV/ca2software)
+XPS 8300 i7-2600 3.40GHz
+
+Signed-off-by: Camilo Sasuke Thomas Borregaard Sørensen <camilosasuketbs@gmail.com>
